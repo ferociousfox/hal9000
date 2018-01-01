@@ -1,0 +1,33 @@
+{
+  "name": "beepboop",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferociousfox/code-review-beep-boop.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "shaneRyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferociousfox/code-review-beep-boop/issues"
+  },
+  "homepage": "https://github.com/ferociousfox/code-review-beep-boop#readme",
+  "devDependencies": {
+    "browserify": "^14.5.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.5",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
